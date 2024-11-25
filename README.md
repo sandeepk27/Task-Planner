@@ -1,7 +1,7 @@
-**Task Manager App**
+**Task Manager App** \
 A simple Task Manager application built with HTML, CSS, and JavaScript. It allows users to add tasks, categorize them by importance and urgency, and mark them as completed.
 
-**Features:**
+**Features:** \
 Task Categorization: Tasks can be categorized into four types based on urgency and importance:
 Important & Urgent
 Important but Not Urgent
@@ -9,7 +9,7 @@ Urgent but Not Important
 Not Important & Not Urgent
 Task Completion: Users can mark tasks as completed using checkboxes. Completed tasks will have a strike through.
 
-**Installation**
+**Installation** \
 To run the application locally, follow these steps:
 
 1. Clone the repository:
