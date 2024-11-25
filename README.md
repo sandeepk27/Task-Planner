@@ -20,10 +20,10 @@ cd Task-Planner
 
 3. Start the server:
 If you’re using Node.js, make sure it's installed and run the following command to start the server:
-node server.js
+**node server.js**
 
 Open a browser and visit http://localhost:3000/.
 
-Acknowledgements
-Node.js: Used for running the server.
+**Acknowledgements** \
+Node.js: Used for running the server. \
 Express.js: A minimal web framework for serving the static files.
